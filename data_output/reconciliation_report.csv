@@ -1,0 +1,4 @@
+trade_id,isin_A,quantity_A,price_A,trade_date_A,isin_B,quantity_B,price_B,trade_date_B,_merge
+T002,US0987654321,250.0,101.2,2024-01-10,US0987654321,250.0,102.0,2024-01-10,both
+T003,US1111111111,300.0,75.0,2024-01-11,,,,,left_only
+T004,,,,,US2222222222,150.0,50.0,2024-01-11,right_only
